@@ -2,4 +2,5 @@ This repository contains a [Manim](https://www.manim.community/) animation that 
 - The set of transpositions of the form $[1,i]$.
 - The set of transpositions of the form $[i,i+1]$.
 - The transposition $[1,2]$ and the cycle $[1,2,\dots,n]$.
+
 For a proof of these facts, see [my solution](https://sroth63.github.io/math/lang.pdf) to Exercise 38 in Serge Lang's *Algebra*, Chapter 1.
